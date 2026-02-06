@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "4X4",
+  "base_artist": "Travis Scott",
+  "createdAt": "2026-02-06T19:08:55.668386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "4x4 - Live",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/01_4x4_-_Live_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "4X4",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/02_4X4_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "4x4",
+      "artist": "BONES",
+      "has_synced": true,
+      "path": "select/03_4x4_BONES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give it Up (Kissy Sell Out's 4X4 Cello Mix)",
+      "artist": "Datarock",
+      "has_synced": false,
+      "path": "select/04_Give_it_Up_(Kissy_Sell_Out's_4X4_Cello_Mix)_Datarock.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Say (4x4 mix by Witchman)",
+      "artist": "The Creatures",
+      "has_synced": false,
+      "path": "select/05_Say_(4x4_mix_by_Witchman)_The_Creatures.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Say (4x4 Mix by Witchman)",
+      "artist": "Creatures",
+      "has_synced": false,
+      "path": "select/06_Say_(4x4_Mix_by_Witchman)_Creatures.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "4x4",
+      "artist": "Miley Cyrus feat. Nelly",
+      "has_synced": true,
+      "path": "select/07_4x4_Miley_Cyrus_feat._Nelly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "4x4",
+      "artist": "Miley Cyrus and Nelly",
+      "has_synced": true,
+      "path": "select/08_4x4_Miley_Cyrus_and_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Next Episode (4x4 refix)",
+      "artist": "Dr. Dre",
+      "has_synced": false,
+      "path": "select/09_Next_Episode_(4x4_refix)_Dr._Dre.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "4x4",
+      "artist": "The Acacia Strain",
+      "has_synced": false,
+      "path": "select/10_4x4_The_Acacia_Strain.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "4x4 (feat. Nelly)",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/11_4x4_(feat._Nelly)_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "4x4",
+      "artist": "Dominic Fike",
+      "has_synced": false,
+      "path": "select/12_4x4_Dominic_Fike.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "4x4 (feat. Nelly)",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/13_4x4_(feat._Nelly)_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fahr mit mir (4x4) (feat. Tokio Hotel)",
+      "artist": "Kraftklub feat. Tokio Hotel",
+      "has_synced": true,
+      "path": "select/14_Fahr_mit_mir_(4x4)_(feat._Tokio_Hotel)_Kraftklub_feat._Tokio_Hotel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fahr mit mir (4x4)",
+      "artist": "Kraftklub",
+      "has_synced": true,
+      "path": "select/15_Fahr_mit_mir_(4x4)_Kraftklub.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "4x4",
+      "artist": "Miley Cyrus, Nelly",
+      "has_synced": true,
+      "path": "select/16_4x4_Miley_Cyrus,_Nelly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "4X4",
+      "artist": "Travis Scott",
+      "has_synced": false,
+      "path": "select/pl_01_4X4_Travis_Scott.txt"
+    }
+  ]
+}
